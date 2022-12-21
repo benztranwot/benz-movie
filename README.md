@@ -1,6 +1,6 @@
-# Netflix clone
+# Benz Movie
 
-A Netflix clone built with Typescript, Next.js and Firebase Authentication.
+A Netflix clone project built with Typescript, Next.js and Firebase Authentication.
 
 [View Live Site]()
 
