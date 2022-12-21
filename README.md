@@ -20,6 +20,7 @@ A Netflix clone project built with Typescript, Next.js and Firebase Authenticati
 - [Next.js](https://nextjs.org/)
 - [Firebase](https://firebase.google.com/)
 - [Recoil](https://recoiljs.org/)
+- [Material UI](https://mui.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Show your support
