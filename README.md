@@ -2,7 +2,7 @@
 
 A Netflix clone project built with Typescript, Next.js and Firebase Authentication.
 
-[View Live Site]()
+[View Live Site](https://benz-movie.vercel.app/)
 
 ## Features
 
